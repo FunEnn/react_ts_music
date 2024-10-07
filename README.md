@@ -14,4 +14,3 @@ React + Redux + React-router + TypeScript + AntD + Axios
 # 简介：仿网易云App项目
 - 从0搭建项目环境，并配置Eslint、Prettier等代码规范工具
 - 实现了播放器的核心功能：音乐播放、进度改变、音乐切换、歌词展示、播放模式、播放列表等
-- 使用Github配合Webhook完成自动化部署
